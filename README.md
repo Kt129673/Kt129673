@@ -234,19 +234,24 @@ public class KiranTilekar implements SeniorDeveloper {
 
 <table>
 <tr>
-<td>
+<td width="60%">
 
-🔭 **Building:** Enterprise monolithic systems with Spring Boot 3.x & Angular
-🌱 **Learning:** Advanced System Design & Microservices migration patterns
-🤝 **Open To:** Full-time roles · Freelance projects · Tech consulting
-💡 **Exploring:** Event-driven architecture, Kafka, cloud-native patterns
-📖 **Reading:** "Designing Data-Intensive Applications" by Martin Kleppmann
-🎯 **Goal 2026:** Ship production-grade microservices system
+| Status | Activity |
+|:---:|:---|
+| 🔭 | Building enterprise monolithic systems with **Spring Boot 3.x** |
+| 🌱 | Deep-diving into **System Design** and Microservices patterns |
+| 🤝 | Open to **Full-time Roles**, Freelance and Tech Consulting |
+| 💡 | Exploring **Event-driven architecture**, Kafka and cloud-native |
+| 📖 | Reading: *Designing Data-Intensive Applications* — Martin Kleppmann |
+| 🎯 | Goal 2026: Ship a **production-grade Microservices system** |
+| 🤖 | Using **GitHub Copilot + Antigravity** to accelerate delivery |
 
 </td>
-<td align="center" width="35%">
+<td align="center" width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="260" alt="Tech Animation"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="60" />
+<br/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260" alt="Tech Animation"/>
 
 </td>
 </tr>
@@ -506,6 +511,28 @@ public class KiranTilekar implements SeniorDeveloper {
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--               DEV PHILOSOPHY SECTION                        -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🧠 Engineering Philosophy
+
+<div align="center">
+
+| Principle | Belief |
+|:---:|:---|
+| 🏗️ **Architecture First** | A well-designed monolith outperforms a poorly-designed microservices system every time |
+| 🧪 **Test Everything** | Code without tests is a liability. 85%+ coverage is the baseline, not the goal |
+| 📊 **Measure, Don't Guess** | Prometheus + Grafana on every production system — visibility is non-negotiable |
+| 🔐 **Security by Design** | JWT, OAuth2, RBAC are built-in from day one — never retrofitted |
+| 🚀 **Automate Ruthlessly** | If a human does it twice, a CI/CD pipeline should do it forever |
+| 📖 **Clean Code Always** | Code is read far more than it's written — clarity beats cleverness |
+| 🤝 **Mentor Constantly** | A rising junior developer raises the entire team's performance |
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--              ANIMATED RANDOM DEV QUOTE                      -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
@@ -570,27 +597,49 @@ public class KiranTilekar implements SeniorDeveloper {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="Connect Animation" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="80" alt="Rocket" />
 
 <br/>
 
-> _"I build systems that handle millions in revenue. Let's talk about your next challenge."_
+### _"I architect systems that handle millions in revenue._
+### _Let's build your next great thing together."_
 
-**Open to:** Full-time Roles &nbsp;·&nbsp; Freelance Projects &nbsp;·&nbsp; Technical Consulting &nbsp;·&nbsp; Open Source
+<br/>
+
+> 🟢 **Available for:** Full-time Roles &nbsp;|&nbsp; Freelance Projects &nbsp;|&nbsp; Tech Consulting &nbsp;|&nbsp; Open Source
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirantilekar@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-tilekar-94173382)
 [![WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919834882015)
+[![Resume](https://img.shields.io/badge/Download%20Resume-FF6B35?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](mailto:kirantilekar@icloud.com?subject=Resume%20Request)
 
 <br/>
 
-<sub>⭐ If you find my work inspiring, please star my repositories — it genuinely means a lot! ⭐</sub>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Experience-3.3%2B%20Years-4FC3F7?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Revenue%20Handled-Rs.%20156%20Cr%2B-brightgreen?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Availability-Immediate-orange?style=flat-square" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- Profile view counter at bottom -->
+<sub>⭐ Found my work impressive? Drop a star on my repos — it means the world to me! ⭐</sub>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=Kt129673&color=4FC3F7&style=for-the-badge&label=TOTAL+PROFILE+VIEWS" />
 
 </div>
