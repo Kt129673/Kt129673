@@ -7,8 +7,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=🚀+Processing+Rs.+156+Cr%2B+in+Transactions;⚡+Sub-200ms+API+Latency+%40+99.9%25+Uptime;🏗️+Architecting+Monolithic+Enterprise+Systems;☁️+AWS+%7C+DigitalOcean+%7C+CI%2FCD+Pipelines;📊+50K%2B+Transactions+Per+Month"
-alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=620&lines=Processing+Rs.+156+Cr%2B+in+Transactions;Sub-200ms+API+Latency+%40+99.9%25+Uptime;Monolithic+Enterprise+Architecture+Expert;AWS+%7C+DigitalOcean+%7C+CI%2FCD+Pipelines;50K%2B+Transactions+Per+Month" alt="Typing SVG" />
 </p>
 
 ---
