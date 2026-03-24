@@ -1,18 +1,21 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Kiran</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Kiran Tilekar</h1>
+<h3 align="center">Senior Java Developer | Spring Boot 3.x | Monolithic Architecture Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Passionate+about+clean+code;Always+learning+new+tech;Open+source+contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=535&lines=Building+mission-critical+enterprise+systems;Processing+50K%2B+monthly+transactions;Optimizing+for+sub-200ms+API+latency;Passionate+about+clean+architecture" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
 <p align="center">
+  <a href="mailto:kirantilekar@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/kiran-tilekar-94173382" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/Kt129673" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/Kt129673" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -20,10 +23,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on building scalable enterprise applications with **Angular & Spring Boot**
-- 🌱 I’m currently learning deeper **System Design and Microservices architecture**
-- 💬 Ask me about **Angular, Spring Boot, PostgreSQL, Java, TypeScript**
-- 📫 How to reach me: reach out on GitHub or LinkedIn!
+- 🚀 **Senior Java & Backend Developer** with 3.3+ years engineering high-performance monolithic applications using **Spring Boot 3.x**.
+- 💼 Track record of processing **Rs. 156 Cr+** government transactions with **99.9% uptime** and sub-200ms latency.
+- ⚙️ Expert in clean layered design, JVM tuning, database optimization, and scalable caching strategies (**Redis, Caffeine**).
+- ☁️ Experienced in cloud deployments (**AWS, DigitalOcean**), CI/CD pipelines (**GitHub Actions, Jenkins**), and IoT analytics.
+- 🌱 Currently deep-diving into **System Design** and transitioning monolithic boundaries to **Microservices**.
+- 📫 Reach out to me: **[kirantilekar@icloud.com](mailto:kirantilekar@icloud.com)**
 
 ---
 
@@ -31,14 +36,23 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,ts,js,html,css" alt="Skill Icons Frontend & Backend" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,postman" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,aws,jenkins,git,github,postman" alt="Skill Icons DB & Cloud" />
   </a>
 </p>
+
+---
+
+### 📈 Career Highlights
+
+- ⚡ **Performance:** Reduced API latency and achieved **60% faster SQL queries** through JVM tuning and caching.
+- 🛡️ **Security:** Integrated **Spring Security, JWT & OAuth2** protecting highly sensitive financial transactions.
+- ⏱️ **DevOps:** Automated deployment workflows, slashing rollout time from 1 hour to **10 minutes** to AWS EC2.
+- 🤖 **Automation:** Leveraged AI-assistants and automated reporting workflows to save **30+ hours/week** of manual effort.
 
 ---
 
@@ -64,7 +78,7 @@
 
 ---
 
-### 🐍 Contribution Graph (Snake Animation)
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
