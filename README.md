@@ -4,7 +4,7 @@
 <!--   ANIMATED HEADER BANNER (capsule-render waving + fadeIn)   -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Kiran%20Tilekar&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Senior%20Java%20Developer%20%7C%20Spring%20Boot%203.x%20%7C%20Cloud%20%26%20IoT%20Systems&descAlignY=58&descSize=18&animation=fadeIn&stroke=4FC3F7&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:0a3d62&height=230&section=header&text=Kiran%20Tilekar&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Senior%20Java%20Developer%20%7C%20Spring%20Boot%203.x%20%7C%20Cloud%20%26%20IoT%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Live Counters -->
 <p>
@@ -95,11 +95,11 @@ public class KiranTilekar implements Developer {
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" alt="Coding Animation"/>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380" alt="Dev Animation" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="200" alt="Earth Animation" />
 
 </td>
 </tr>
@@ -425,7 +425,7 @@ public class KiranTilekar implements Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Kt129673&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Kt129673&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kt129673&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
@@ -442,7 +442,7 @@ public class KiranTilekar implements Developer {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kt129673&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kt129673&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <!-- Animated cylinder divider -->
