@@ -4,7 +4,7 @@
 <!--   ANIMATED HEADER BANNER (capsule-render waving + fadeIn)   -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:0a3d62&height=230&section=header&text=Kiran%20Tilekar&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Senior%20Java%20Developer%20%7C%20Spring%20Boot%203.x%20%7C%20Cloud%20%26%20IoT%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:0a3d62&height=230&section=header&text=Kiran%20Tilekar&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Senior%20Java%20Developer%20%7C%20Spring%20Boot%203.x%20%7C%20Cloud%20and%20IoT%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Live Counters -->
 <p>
