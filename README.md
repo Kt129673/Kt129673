@@ -46,67 +46,122 @@
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--              GIF + ABOUT ME (2 Column Layout)               -->
+<!--                   IMPROVED ABOUT ME                         -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ## 🧑‍💻 About Me
 
+> 🏗️ I don't just write code — I **architect systems that run governments**.
+> With **3.3+ years** of engineering mission-critical enterprise applications using
+> **Spring Boot 3.x**, I've helped process **Rs. 156 Cr+** in government transactions
+> at **99.9% uptime** — with zero downtime and **sub-200ms API latency**.
+
 ```java
 /**
- * @author  Kiran Tilekar
- * @role    Senior Java Developer
- * @version 3.3+ Years Experience
+ * @author   Kiran Tilekar
+ * @since    Nov 2022 (AVICS, Pune)
+ * @version  3.3+ Years Enterprise Java
+ * @linkedin kiran-tilekar-94173382
+ * @email    kirantilekar@icloud.com
+ * @status   IMMEDIATE JOINER ✅
  */
 @Component
 @Profile("production")
-public class KiranTilekar implements Developer {
+public class KiranTilekar implements SeniorDeveloper {
 
-    @Value("${role}")
-    String role = "Senior Java Developer | Spring Boot 3.x";
+    // ── Identity ──────────────────────────────────────
+    final String name     = "Kiran Tilekar";
+    final String role     = "Senior Java and Backend Developer";
+    final String company  = "AVICS, Pune (100% Remote)";
+    final String location = "Pune, India";
+    final boolean open    = true; // reach out!
 
-    @Value("${location}")
-    String location = "Pune, India";
+    // ── Real-World Impact ─────────────────────────────
+    final String revenue  = "Rs. 156 Cr+ Govt Transactions / Year";
+    final String uptime   = "99.9% SLA with Zero Downtime";
+    final String latency  = "Sub-200ms @ 50,000+ transactions/month";
+    final String iot      = "10K+ sensor readings/min from 50+ machines";
+    final String cicd     = "Deployments: 1 hour reduced to 10 minutes";
+    final String savings  = "30+ hours/week saved via JasperReports";
+    final String coverage = "85%+ TDD code coverage (JUnit5 + Mockito)";
+    final String team     = "Led 5 devs, mentored 3 junior to mid-level";
 
-    @Value("${available}")
-    boolean available = true; // Immediate Joiner!
-
-    @Autowired
-    Map<String, String> impact = Map.of(
-        "revenue",   "Rs. 156 Cr+ Govt Transactions/Year",
-        "uptime",    "99.9% SLA — Zero Downtime",
-        "latency",   "Sub-200ms @ 50K+ txns/month",
-        "iot",       "10K+ readings/min from 50+ machines",
-        "queries",   "60% faster SQL — indexing + caching",
-        "db_load",   "40% fewer DB hits — Redis + Caffeine",
-        "ci_cd",     "1 hour → 10 minutes deployment",
-        "coverage",  "85%+ code coverage — TDD enforced"
-    );
-
-    String askMeAbout() {
-        return "Spring Boot • Java • Angular • Redis • AWS";
+    // ── Superpower ────────────────────────────────────
+    @Override
+    public String getStrength() {
+        return "Clean Monolithic Architecture at Cloud Scale";
     }
+
+    // ── Ask Me About ──────────────────────────────────
+    public String[] expertise() {
+        return new String[]{
+            "Spring Boot 3.x", "Monolithic Architecture",
+            "REST APIs", "JVM Tuning", "Redis + Caffeine",
+            "HikariCP", "JasperReports", "AWS EC2/S3/RDS",
+            "Angular 14/16", "PostgreSQL", "MQTT + IoT"
+        };
+    }
+
+    // ── Currently ─────────────────────────────────────
+    String learning = "System Design + Microservices Patterns";
+    String reading  = "Designing Data-Intensive Applications";
+    String goal     = "Production Microservices system in 2026";
 }
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" alt="Coding Animation"/>
+<td width="42%" align="center" valign="top">
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="200" alt="Earth Animation" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320" alt="Developer Animation"/>
+
+<br/><br/>
+
+**⚡ Quick Facts**
+
+| | |
+|:---:|:---|
+| 💼 | **3.3+ Years** Enterprise Java |
+| 🏛️ | **Rs. 156 Cr+** Systems Live |
+| 🟢 | **99.9% Uptime** on Prod |
+| ☁️ | **AWS** · DigitalOcean · Linux |
+| 👥 | Led a team of **5 developers** |
+| 📍 | **Pune, India** — Remote Ready |
+| 🎓 | B.E. Electrical Engineering |
+| 🚀 | **Immediate Joiner** |
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="140" alt="Earth Animation" />
+
+<br/>
+
+**🌐 Languages Spoken**
+
+`🇬🇧 English` &nbsp; `🇮🇳 Hindi` &nbsp; `🟠 Marathi`
+
+<br/>
+
+**🏷️ Core Strengths**
+
+![Architecture](https://img.shields.io/badge/System%20Design-0a3d62?style=flat-square)
+![Leadership](https://img.shields.io/badge/Tech%20Leadership-1b4332?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance%20Eng-6c3483?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD%20Champion-b7950b?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps%20Practices-1a5276?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-922b21?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 <!-- Animated Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:0a3d62&height=3&section=header" />
 
 ---
 
@@ -134,7 +189,7 @@ public class KiranTilekar implements Developer {
 </div>
 
 <!-- Animated shark divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=60&section=header&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1b2a,100:0a3d62&height=60&section=header&reversal=false" />
 
 ---
 
@@ -167,7 +222,7 @@ public class KiranTilekar implements Developer {
 ```
 
 <!-- Animated wave separator -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,10,6&height=60&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0a3d62,100:0d1b2a&height=60&section=footer" />
 
 ---
 
@@ -198,7 +253,7 @@ public class KiranTilekar implements Developer {
 </table>
 
 <!-- Animated divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20,6&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,100:0a3d62&height=3" />
 
 ---
 
@@ -335,7 +390,7 @@ public class KiranTilekar implements Developer {
 </table>
 
 <!-- Animated egg divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=60&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:0a3d62,100:0d1b2a&height=60&section=footer" />
 
 ---
 
@@ -414,7 +469,7 @@ public class KiranTilekar implements Developer {
 </div>
 
 <!-- Animated slice divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=20,11,6&height=60&section=header&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1b2a,100:0a3d62&height=60&section=header&reversal=true" />
 
 ---
 
@@ -446,7 +501,7 @@ public class KiranTilekar implements Developer {
 </div>
 
 <!-- Animated cylinder divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a3d62,100:0d1b2a&height=4&section=header" />
 
 ---
 
@@ -472,7 +527,7 @@ public class KiranTilekar implements Developer {
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=40&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1b2a,100:0a3d62&height=40&section=footer" />
 
 ---
 
@@ -503,7 +558,7 @@ public class KiranTilekar implements Developer {
 </div>
 
 <!-- Animated slice divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,20,11&height=60&section=footer&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0a3d62,100:0d1b2a&height=60&section=footer&reversal=false" />
 
 ---
 
@@ -546,4 +601,4 @@ public class KiranTilekar implements Developer {
 <!--             ANIMATED FOOTER WAVE (capsule-render)           -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:0a3d62&height=150&section=footer&animation=fadeIn" />
